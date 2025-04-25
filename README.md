@@ -1,2 +1,2 @@
-# Trabajos-python
-Mis primeros trabjos en Python
+# Proyrctos
+Mis primeros trabjos en Proyectos
